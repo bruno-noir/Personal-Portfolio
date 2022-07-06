@@ -1,2 +1,2 @@
-# pratyush.github.io
-https://pratyush.github.io/
+# Personal-portfolio
+https://bruno-noir.github.io/
