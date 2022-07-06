@@ -1,2 +1,2 @@
-# bruno-noir.github.io
-https://bruno-noir.github.io/
+# pratyush.github.io
+https://pratyush.github.io/
